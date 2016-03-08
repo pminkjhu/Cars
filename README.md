@@ -1,4 +1,2 @@
-git dif# Cars
+# Cars
 A practice repository. Let's work it out.
-
-OK, lets try somehting else.
